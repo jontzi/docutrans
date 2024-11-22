@@ -7,7 +7,7 @@ def count_tokens(text, model="gpt-3.5-turbo"):
     return len(encoding.encode(text))
 
 # Load the DOCX file
-input_file = r"C:\Users\L11499\OneDrive - OPPO\translate\input\ColorOS_14.0_User_Manual_V1.0_20231227.docx"  # Replace with your input file name
+input_file = "input/document.docx"  # Replace with your input file path
 # Load the document
 document = Document(input_file)
 total_tokens = 0
