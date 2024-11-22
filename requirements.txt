@@ -1,4 +1,6 @@
 python-docx
 deep-translator
 tqdm
-python-dotenv 
+python-dotenv
+openai
+tiktoken
