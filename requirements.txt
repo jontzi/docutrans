@@ -1,0 +1,4 @@
+python-docx
+deep-translator
+tqdm
+python-dotenv 
